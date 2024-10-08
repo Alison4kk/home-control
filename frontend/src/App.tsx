@@ -224,7 +224,7 @@ function App() {
   return (
     <>
       <div >
-        <h1>Casa Inteligente</h1>
+        <h1>HomeControl</h1>
       </div>
 
       <Toast ref={toast} />
