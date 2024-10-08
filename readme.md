@@ -8,7 +8,7 @@ O projeto tem como objetivo o estudo do websocket e emissão de eventos do backe
 
  1. Clonar o repositório
 
- `git clone https://github.com/Alison4kk/home-control.git`
+ `git clone https://github.com/Alison4kk/home-control.git && cd home-control`
 
  2. Instalar os pacotes do frontend 
  
